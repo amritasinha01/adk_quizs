@@ -1,0 +1,1 @@
+web: gunicorn adk_quiz.wsgi
