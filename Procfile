@@ -1,1 +1,1 @@
-web: gunicorn adk_quiz.wsgi
+web: gunicorn adk_quizs.wsgi
